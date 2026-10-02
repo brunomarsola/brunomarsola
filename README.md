@@ -1,12 +1,13 @@
 # Hi, I'm Bruno Marsola 👋
 
-### Cybersecurity | Offensive Security | Threat Intelligence | Embedded & OT Security
+### Cybersecurity | Threat Intelligence | OSINT | Offensive Security | OT Security | Persistence-Attack
 
 I'm a technology professional focused on cybersecurity, with interests spanning
-offensive security, embedded systems, operational technology (OT), and threat intelligence.
+threat intelligence, offensive security, reconnaissance, security automation,
+embedded systems, and operational technology.
 
-My current focus is building practical knowledge through hands-on labs, security
-research, projects, and continuous study.
+My current focus is building practical security tooling, hands-on labs, and
+research projects while continuously developing my technical skills.
 
 ---
 
@@ -25,6 +26,69 @@ research, projects, and continuous study.
 
 ---
 
+## 🧭 Intelligence Interests
+
+My long-term interests span multiple intelligence disciplines,
+with a particular focus on their intersection with cybersecurity
+and threat intelligence.
+
+- OSINT — Open Source Intelligence
+- HUMINT — Human Intelligence
+- SIGINT — Signals Intelligence
+- GEOINT — Geospatial Intelligence
+- FININT — Financial Intelligence
+- TECHINT — Technical Intelligence
+- ELINT — Electronic Intelligence
+- CYBINT — Cyber Intelligence
+- WEBINT — Web Intelligence
+- COMINT — Communications Intelligence
+- IMINT — Imagery Intelligence
+- MASINT — Measurement and Signature Intelligence
+
+---
+
+## 🚀 Featured Projects
+
+### 🔎 [Digital Footprint Intelligence](https://github.com/brunomarsola/digital-footprint-intelligence)
+
+Passive digital footprint intelligence and attack-surface reconnaissance
+tool for DNS, Certificate Transparency, RDAP, infrastructure correlation,
+relationship analysis, and risk analysis.
+
+**Python · OSINT · CTI · DNS · RDAP · Certificate Transparency**
+
+### 🌐 [Subdomain Finder](https://github.com/brunomarsola/subdomain-finder)
+
+DNS brute-force subdomain discovery tool built in pure Python,
+focused on reconnaissance and subdomain enumeration.
+
+**Python · DNS · Reconnaissance · Enumeration**
+
+---
+
+## 🔨 Currently Building
+
+### Digital Footprint Intelligence
+
+A security research project focused on collecting, correlating, and analyzing
+public infrastructure data.
+
+Current capabilities include:
+
+- DNS collection
+- Certificate Transparency
+- RDAP
+- Domain and IP modeling
+- Certificate classification
+- Infrastructure relationships
+- Similarity analysis
+- Risk analysis
+- Structured findings
+- CLI investigation workflow
+- Multiple export formats
+
+---
+
 ## 🛠️ Technologies & Tools
 
 ### Programming
@@ -40,19 +104,20 @@ research, projects, and continuous study.
 - Virtualization
 
 ### Cybersecurity
-- Penetration Testing
-- Network Security
-- Web Security
-- Vulnerability Assessment
-- Reconnaissance
-- Threat Intelligence
+- DNS
+- RDAP
+- Certificate Transparency
+- MITRE ATT&CK
 - OSINT
+- Threat Intelligence
+- Reconnaissance
+- Network Security
 
 ---
 
-## 🧪 Labs & Research
+## 🧪 Labs & Security Research
 
-I'm building and maintaining hands-on cybersecurity environments to study:
+I build and maintain controlled environments to study:
 
 - Pentesting methodologies
 - Network security
@@ -62,6 +127,7 @@ I'm building and maintaining hands-on cybersecurity environments to study:
 - Wireless security
 - Embedded systems
 - OT / ICS security
+- Industrial networks
 - Attack simulation
 - Defensive controls
 - Threat intelligence
@@ -71,14 +137,7 @@ I'm building and maintaining hands-on cybersecurity environments to study:
 
 ---
 
-## 📚 Current Studies
-
-### Cybersecurity
-- Penetration Testing
-- Offensive Security
-- Web Security
-- Reconnaissance
-- Network Security
+## 📚 Learning & Research
 
 ### Threat Intelligence
 - OSINT
@@ -87,31 +146,18 @@ I'm building and maintaining hands-on cybersecurity environments to study:
 - MITRE ATT&CK
 - Threat Actor Research
 
+### Offensive Security
+- Reconnaissance
+- Enumeration
+- Vulnerability Assessment
+- Web Security
+- Network Security
+
 ### Industrial Cybersecurity
 - Embedded Systems Security
 - OT Security
 - ICS Security
 - Industrial Networks
-
----
-
-## 🚀 Projects
-
-### 🔴 Offensive Security
-Projects related to penetration testing, reconnaissance,
-vulnerability assessment and security research.
-
-### 🟠 Security Labs
-Hands-on environments designed to study attack and defense
-techniques in controlled systems.
-
-### 🟡 Embedded & OT Security
-Research and experimentation involving embedded devices,
-industrial protocols and operational technology.
-
-### 🔵 Threat Intelligence
-Research involving OSINT, threat actors, indicators,
-TTPs and intelligence analysis.
 
 ---
 
@@ -130,18 +176,18 @@ I document what I learn through:
 
 ## 🎯 Long-Term Direction
 
-Building toward a career in **Cybersecurity**, with a long-term
-focus on the intersection of:
+Building toward a career in cybersecurity, with a long-term interest
+in the intersection of:
 
 **Offensive Security × Threat Intelligence × Embedded/OT Security**
 
-with the goal of working toward **Industrial Cybersecurity**.
+with a particular interest in **Industrial Cybersecurity**.
 
 ---
 
 ## ⚠️ Disclaimer
 
-All security testing, exploitation and offensive security research
+All security testing, exploitation, and offensive security research
 published here is performed against systems I own, intentionally
 vulnerable environments, or systems for which I have explicit authorization.
 
@@ -154,4 +200,4 @@ vulnerable environments, or systems for which I have explicit authorization.
 
 ---
 
-<sub>🇧🇷 Guarulhos, SP — open to opportunities in embedded systems and industrial cybersecurity</sub>
+<sub>🇧🇷 Guarulhos, SP — open to opportunities in cybersecurity, threat intelligence and industrial cybersecurity</sub>
